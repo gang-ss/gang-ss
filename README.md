@@ -1,5 +1,4 @@
 ### Hi there 👋
-## I'm Eun!
 
 [![gang's GitHub stats](https://github-readme-stats.vercel.app/api?username=gang-ss)](https://github.com/anuraghazra/github-readme-stats)
 
